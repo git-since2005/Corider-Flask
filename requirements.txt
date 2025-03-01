@@ -1,0 +1,7 @@
+flask
+bcrypt
+uuid
+python-dotenv
+pymongo
+pyjwt
+flask_cors
